@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Livvic:400,600&display=swap");
+
+.TodoApp {
+    font-family: 'Livvic', sans-serif;
+    background-color: #F5F5F5;
+    color: #222;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+p {
+    text-align: center;
+}
